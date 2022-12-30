@@ -9,11 +9,16 @@ fun main() {
         println("$v")
     }
 
-    var array = arrayOf("Al", "Bukhari", "Bin", "Riedho")
+    var array = arrayOf("Al", "Bukhari", "Bin", "Riedho", "Agus", "Banaran")
     var nilai = 0
-    for(nilai in array) {
-        println(nilai)
+    for(n in array) {
+        println(n)
         nilai++
     }
     println("Total perulangan = $nilai")
+
+    val ukuranArray = array.size - 1
+    for (i in 0..ukuranArray) {
+        println("index $i = ${array.get(i)}")
+    }
 }
