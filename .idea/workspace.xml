@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21c21dc6-4fe0-4305-ad52-9e1a4a887da2" name="Changes" comment="Function">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FUnctionReturnType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UnitReturningFunction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FunctionNamedArgument.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionNamedArgument.kt" afterDir="false" />
-    </list>
+    <list default="true" id="21c21dc6-4fe0-4305-ad52-9e1a4a887da2" name="Changes" comment="Function next" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672464861102</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Function next">
+      <created>1672486244186</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672486244186</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +208,8 @@
     <MESSAGE value=" Perulangan dan whileloop" />
     <MESSAGE value="break adn continue -- do while loop" />
     <MESSAGE value="Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function" />
+    <MESSAGE value="Function next" />
+    <option name="LAST_COMMIT_MESSAGE" value="Function next" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
