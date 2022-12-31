@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21c21dc6-4fe0-4305-ad52-9e1a4a887da2" name="Changes" comment="Function" />
+    <list default="true" id="21c21dc6-4fe0-4305-ad52-9e1a4a887da2" name="Changes" comment="Function">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FUnctionReturnType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UnitReturningFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FunctionNamedArgument.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionNamedArgument.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,16 +68,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FunctionDefaultArgumentKt">
-    <configuration name="BreakAndContinueInLoopingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakAndContinueInLoopingKt" />
-      <module name="basic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoWhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhileLoopKt" />
+  <component name="RunManager" selected="Kotlin.FUnctionReturnTypeKt">
+    <configuration name="FUnctionReturnTypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FUnctionReturnTypeKt" />
       <module name="basic" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,10 +84,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionKt" />
+    <configuration name="FunctionNamedArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionNamedArgumentKt" />
       <module name="basic" />
-      <shortenClasspath name="MANIFEST" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,13 +98,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UnitReturningFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnitReturningFunctionKt" />
+      <module name="basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FUnctionReturnTypeKt" />
+        <item itemvalue="Kotlin.UnitReturningFunctionKt" />
+        <item itemvalue="Kotlin.FunctionNamedArgumentKt" />
         <item itemvalue="Kotlin.FunctionDefaultArgumentKt" />
         <item itemvalue="Kotlin.FunctionParameterKt" />
-        <item itemvalue="Kotlin.FunctionKt" />
-        <item itemvalue="Kotlin.BreakAndContinueInLoopingKt" />
-        <item itemvalue="Kotlin.DoWhileLoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672464744714</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Function">
+      <created>1672464861102</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672464861102</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
