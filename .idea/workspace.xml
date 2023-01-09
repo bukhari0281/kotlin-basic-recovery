@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21c21dc6-4fe0-4305-ad52-9e1a4a887da2" name="Changes" comment="Function next">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExtensionFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionInfixNotation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionScope.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionVarargsParameter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LambdaExpression.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RecursiveFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ReturnIfAndWhen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SingleExpressionFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TailRecursiveFunction.kt" afterDir="false" />
+    <list default="true" id="21c21dc6-4fe0-4305-ad52-9e1a4a887da2" name="Changes" comment="Function next 2">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AnonymousFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Closure.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HigherOrderFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InlineFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Komentar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Label.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MainParameter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Package.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/company/belajar/util/StringUtil.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,50 +74,58 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.LambdaExpressionKt">
-    <configuration name="FunctionScopeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionScopeKt" />
+  <component name="RunManager" selected="Kotlin.MainParameterKt">
+    <configuration name="ClosureKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClosureKt" />
       <module name="basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdaExpressionKt" />
-      <module name="basic" />
-      <shortenClasspath name="ARGS_FILE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursiveFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveFunctionKt" />
+    <configuration name="InlineFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InlineFunctionKt" />
       <module name="basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnIfAndWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReturnIfAndWhenKt" />
+    <configuration name="LabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabelKt" />
       <module name="basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TailRecursiveFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TailRecursiveFunctionKt" />
+    <configuration name="MainParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainParameterKt" />
+      <module name="basic" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;Al BUkhari&quot; &quot;Doni&quot; &quot;Saiful&quot;" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackageKt" />
       <module name="basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Kotlin.ClosureKt" />
+      <item itemvalue="Kotlin.InlineFunctionKt" />
+      <item itemvalue="Kotlin.LabelKt" />
+      <item itemvalue="Kotlin.MainParameterKt" />
+      <item itemvalue="Kotlin.PackageKt" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.LambdaExpressionKt" />
-        <item itemvalue="Kotlin.TailRecursiveFunctionKt" />
-        <item itemvalue="Kotlin.RecursiveFunctionKt" />
-        <item itemvalue="Kotlin.ReturnIfAndWhenKt" />
-        <item itemvalue="Kotlin.FunctionScopeKt" />
+        <item itemvalue="Kotlin.MainParameterKt" />
+        <item itemvalue="Kotlin.PackageKt" />
+        <item itemvalue="Kotlin.LabelKt" />
+        <item itemvalue="Kotlin.InlineFunctionKt" />
+        <item itemvalue="Kotlin.ClosureKt" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672486288455</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Function next 2">
+      <created>1672586677458</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672586677458</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,7 +242,8 @@
     <MESSAGE value="break adn continue -- do while loop" />
     <MESSAGE value="Function" />
     <MESSAGE value="Function next" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function next" />
+    <MESSAGE value="Function next 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Function next 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
